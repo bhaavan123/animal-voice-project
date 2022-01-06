@@ -1,0 +1,44 @@
+.main_div{
+    font-family: 'Mochiy Pop P One', sans-serif; 
+    background-color: purple;
+    color: pink;
+    
+    }
+    .header_div{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: pink;
+        color: purple;
+        font-size: 30px;
+    }
+    body{
+        background-color: rgb(250, 139, 119);
+    }
+    .header_div p{
+        
+        letter-spacing: 4px;
+        font-weight: bold;
+        font-size: 15px;
+        color:gray;
+        font-style: normal;
+    }
+    .main_div button{
+    width: 130px; 
+    margin-top: 15px;   
+    color:purple;
+    background-color: pink;
+    font-weight: bold;
+    
+    }
+    .copy_write_footer{
+        text-align: center;
+        position: fixed;
+    font-family: 'Dancing Script';
+    font-family: cursive; 
+    width: 100%;
+    line-height: 3;
+    text-shadow: 5px 5px 5px gray;
+    background-color: pink;
+    bottom: 0%;
+    color: purple;
+    font-size: 20px;
+    }
